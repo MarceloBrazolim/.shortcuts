@@ -1,5 +1,4 @@
 #!/bin/bash
-(bash ~/scripts/signature.sh)
 blank="\n"
 (bash ~/scripts/map.sh -h)
 printf "$blank"
