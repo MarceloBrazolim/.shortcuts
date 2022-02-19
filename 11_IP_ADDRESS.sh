@@ -1,5 +1,4 @@
 #!/bin/bash
-(bash ~/scripts/signature.sh)
 blank="\n"
 printf "$blank"
 printf "YOUR IP ADDRESS IS:\n"
